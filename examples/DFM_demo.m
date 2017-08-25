@@ -2,8 +2,8 @@ clear all
 clc
 parameter_settings;
 load('network.mat');
-GalleryPath = '..\data\Gallery\';
-ProbePath = '..\data\Probe\';
+GalleryPath = '..\images\Gallery\';
+ProbePath = '..\images\Probe\';
 GalleryFeature = FeatureExtract(GalleryPath,net,feature_map_selection_index,'Gallery');
 ProbeFeature = FeatureExtract(ProbePath,net,feature_map_selection_index,'Probe');
 
