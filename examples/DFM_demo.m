@@ -24,9 +24,6 @@ for i =1:length(ProbeFeature)
 end
 fprintf('Finish...\n')
 accuracy = calrank(LastScore,1:10,'ascend');
+fprintf(strcat('Rank-1 accuracy:',num2str(accuracy(1)*100),'%%'));
+fprintf('\n');
 
-
-
-
-%     aaa(sen,:) = accuracy;
-% end

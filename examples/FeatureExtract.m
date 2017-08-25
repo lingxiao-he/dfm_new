@@ -3,7 +3,6 @@ fprintf(strcat('Extract', type , 'feature...\n'));
 filename = dir(strcat(path,'*.jpg'));
 
 for i = 1:length(filename)
-    i
     img = imread(strcat(path,filename(i).name));
     img = single(img);
     if strcmp(type,'Gallery')
