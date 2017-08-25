@@ -6,5 +6,5 @@ Abstract—Compact features can be represented by many typical deep Convolutiona
 
 <div align=center><img width="376" height="240" src="https://github.com/lingxiao-he/dfm_new/blob/master/images/PF.jpg"/></div>1
 <div align=center><img width="513" height="219" src="https://github.com/lingxiao-he/dfm_new/blob/master/images/framework.jpg"/></div>1
-<div align=center><img width="1832" height="467" src="https://github.com/lingxiao-he/dfm_new/blob/master/images/Result.jpg"/></div>1
+<div align=center><img width="916" height="235" src="https://github.com/lingxiao-he/dfm_new/blob/master/images/Result.jpg"/></div>1
 
